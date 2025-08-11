@@ -2,6 +2,9 @@
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2018b%2B-blue.svg)](https://www.mathworks.com/products/matlab.html)
 
+If you use this code in your research, please cite: [AYA MAJDOUB]. (2025). NanoIndentation Analysis Toolbox for AlSi20 Alloy.GitHub. [https://github.com/Aya-Mj07/Nanoindentation-Data-Analysis-Toolbox-with-MATLAB]
+
+
 ### Nanoindentation Data Analysis Toolbox with MATLAB
 **I.	Project Description :**
 
